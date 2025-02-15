@@ -7,5 +7,5 @@ It has a strange average time complexity of O(n²/log(n)) with a more standard s
 
 There is two variant of this algorithm:
     - a non stable one (CrocoSort) that better deals with reversed sorted list.
-    - a stable one (DoubleCrocoSort).
+	- a stable one (DoubleCrocoSort).
 
